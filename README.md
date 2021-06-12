@@ -1,1 +1,2 @@
-# HORSERIDER
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
